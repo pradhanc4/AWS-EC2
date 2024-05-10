@@ -4,6 +4,8 @@ Title:Enhancing Scalability and Reliability with AWS EC2 Migration for Web Appli
 
 I am Chetan Pradhan with a dedication to professionalism and precision, I specialize in solving scenario-based problems and crafting processes for AWS service utilization and architecture.
 
+![Add a subheading (1)](https://github.com/pradhanc4/AWS-EC2/assets/44122332/c1d363ad-6408-4c56-a410-8374aadd0606)
+
 Scenario: A company wants to migrate its web application to AWS for better scalability and reliability.
 
 **Question 1:** What AWS services would you recommend for hosting the web application, and why?
