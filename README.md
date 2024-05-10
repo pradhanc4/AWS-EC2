@@ -1,14 +1,14 @@
 # AWS-EC2 Architecture Diagram
 
-Title:Enhancing Scalability and Reliability with AWS EC2 Migration for Web Applications
+# Title:Enhancing Scalability and Reliability with AWS EC2 Migration for Web Applications
 
 I am Chetan Pradhan with a dedication to professionalism and precision, I specialize in solving scenario-based problems and crafting processes for AWS service utilization and architecture.
 
 ![Add a subheading (1)](https://github.com/pradhanc4/AWS-EC2/assets/44122332/c1d363ad-6408-4c56-a410-8374aadd0606)
 
-Scenario: A company wants to migrate its web application to AWS for better scalability and reliability.
+## Scenario: A company wants to migrate its web application to AWS for better scalability and reliability.
 
-**Question 1:** What AWS services would you recommend for hosting the web application, and why?
+## **Question 1:** What AWS services would you recommend for hosting the web application, and why?
 
 
 For hosting the web application, I would recommend the following AWS services:
@@ -25,7 +25,7 @@ For hosting the web application, I would recommend the following AWS services:
 
 **Amazon Route 53:** Route 53 is a highly available and scalable DNS service that routes user requests to the nearest endpoint, improving latency and availability. It supports advanced routing policies like latency-based routing and geolocation routing, enabling efficient traffic distribution.
 
-**Question 2:** Describe the steps you would take to ensure a smooth migration of the web application to AWS.
+## **Question 2:** Describe the steps you would take to ensure a smooth migration of the web application to AWS.
 
 To ensure a smooth migration of the web application to AWS, I would follow these steps:
 
