@@ -55,6 +55,8 @@ To ensure a smooth migration of the web application to AWS, I would follow these
 
 # Architecting Real-time Data Analytics on AWS: Leveraging EC2 and Ensuring Security Compliance
 
+![Copy of Add a subheading](https://github.com/aws/aws-lambda-runtime-interface-emulator/assets/44122332/72cfe914-81e5-420a-8788-2b6b6208bbc1)
+
 ## Question 1: Which AWS services would you use to build the data analytics platform, and how would they interact?
 
 For real-time data analytics, we need services that can handle large datasets, perform analysis, and scale dynamically. Here’s a breakdown:
