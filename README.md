@@ -160,7 +160,35 @@ Metrics Collection: Similarly, the CloudWatch Agent will collect metrics such as
 **Continuous Improvement:** Continuously monitor and review your logging and monitoring setup to identify areas for improvement. This may involve optimizing resource utilization, refining alarm thresholds, or integrating additional tools and services to enhance visibility into your infrastructure.
 
 
+..............................................................................................................................................................
 
+# High Availability Web Application: Building a highly available web application architecture with EC2 instances distributed across multiple Availability Zones (AZs) behind an Auto Scaling Group and ELB.
+
+
+![EC2 (1)](https://github.com/aws/aws-lambda-runtime-interface-emulator/assets/44122332/897a3e7c-94e7-465b-9f26-bbe272de498e)
+
+
+
+**EC2 Instances:**
+Deploy multiple EC2 instances across multiple Availability Zones (AZs).
+
+**Auto Scaling Group:**
+Group EC2 instances into an Auto Scaling Group to automatically adjust capacity based on demand.
+
+**Elastic Load Balancer (ELB):**
+Place an Elastic Load Balancer in front of the EC2 instances to distribute incoming traffic across AZs.
+
+**Availability Zones:**
+EC2 instances are distributed across multiple AZs for high availability and fault tolerance.
+
+**Database Layer (not depicted):**
+Optionally, include a highly available database layer, such as Amazon RDS Multi-AZ, to ensure data durability and availability.
+
+**Monitoring and Alerts:**
+Set up monitoring and alerts using services like Amazon CloudWatch to monitor the health and performance of EC2 instances and ELB.
+
+**Scalability:**
+Scale horizontally by adding more EC2 instances to the Auto Scaling Group to handle increased traffic.
 
 
 
